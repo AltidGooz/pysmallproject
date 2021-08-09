@@ -6,3 +6,5 @@ python小程序
 2.hangman 猜单词游戏
 
 3.pyclock 闹钟脚本
+
+4.pycaiquan 猜拳游戏
