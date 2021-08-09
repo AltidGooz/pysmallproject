@@ -9,4 +9,4 @@ python小程序
 
 4.pycaiquan 猜拳游戏
 
-5.提醒工具
+5.pytixingtool 提醒工具
